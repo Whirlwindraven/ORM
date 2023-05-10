@@ -4,7 +4,7 @@
     
 ## Table of Contents
 - [Project Description](#Description)
-- [Screenshot](#Screenshot)
+- [Video-link](#Video-link)
 - [Usage](#Usage)
 - [Installation](#Installation)
 - [Contributing](#Contributing)
@@ -12,13 +12,13 @@
 - [License](#License)
 
 ## Description
-  
+  This is a back end testing server side appliciation for an e-commerce site taking a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
-## Screenshot
-Screenshot can be accessed [here]()
+## Video-link
+Video demo can be accessed [here](https://youtu.be/zIjHPHlfCKQ)
 
 ## Usage
-Free use to for any organization. Best used for sports management purposes. 
+Free use to for any organization.
 
 ## Installation
 Through github and run through node.
@@ -27,7 +27,7 @@ Through github and run through node.
 Fady Khalil <br>
 
 ## Questions
-contact@manager-fc.com
+fadysherif1998@gmail.com
 
 ## License
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
